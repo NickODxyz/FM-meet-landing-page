@@ -1,6 +1,7 @@
 <h1 align="center">Frontend Mentor - Meet Landing Page Challenge</h1>
 
-![Alt Text Here]()
+![Preview](https://github.com/NickODxyz/FM-meet-landing-page/blob/main/Preview.JPG)
+![Preview-2](https://github.com/NickODxyz/FM-meet-landing-page/blob/main/Preview-ext-1.JPG)
 
 <br>
 
