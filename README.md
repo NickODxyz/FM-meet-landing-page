@@ -31,9 +31,9 @@ Also played around with two `background-image` positions and came out pretty wel
 
 ## Site links
 
-Hosted [Live Site]()
+Hosted [Live Site](https://nickodxyz.github.io/FM-meet-landing-page/)
 
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/meet-landing-page-hcQV0ST2p)
 
 <br>
 
